@@ -1,4 +1,4 @@
-# Integer Vector Homomorphic Encryption
+# Integer Vector Homomorphic Encryption/
 
 MIT 6.857 project - an implementation of a homomorphic encryption scheme that permits addition, linear transformation, and weighted inner products of integer vectors, whilst encrypted.
 
